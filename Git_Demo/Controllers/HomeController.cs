@@ -8,6 +8,8 @@ namespace Git_Demo.Controllers
     {
 
         //Free Github Test
+        //This comment added from Github
+        
         private readonly ILogger<HomeController> _logger;
 
         public HomeController(ILogger<HomeController> logger)
