@@ -6,6 +6,8 @@ namespace Git_Demo.Controllers
 {
     public class HomeController : Controller
     {
+
+        //Free Github Test
         private readonly ILogger<HomeController> _logger;
 
         public HomeController(ILogger<HomeController> logger)
